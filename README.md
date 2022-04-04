@@ -52,5 +52,3 @@
 ------
 
 [pranav-bot](https://github.com/pranav-bot)
-
-Last Edited on: 05/08/2021
