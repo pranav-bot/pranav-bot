@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate AI,ML&DS Student from India</h3>
+<h3 align="center">A AI,ML&DS Student from India</h3>
 
 - 🔭 I’m currently working on my **AI, ML and DS skills**
 
