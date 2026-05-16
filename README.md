@@ -22,7 +22,7 @@
 
 ### Experience
 
-- Research Intern — IIT Kanpur  
+- Project Engineer — IIT Kanpur(Space Dynamics and Flight Control Lab)  
 - Associate AI & ML Developer — Credwise  
 
 ---
