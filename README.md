@@ -1,9 +1,10 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre">via GIPHY</a></p>
+
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="480" />
 
 # Pranav Advani
 
-Software Engineer
+### Software Engineer
 
 Exploring optimization landscapes, computer vision, scalable AI systems, and modern ML infrastructure.
 
@@ -12,15 +13,14 @@ Exploring optimization landscapes, computer vision, scalable AI systems, and mod
 ---
 
 ## Past Experience
-- Research Intern at IIT Kanpur
+- Research Intern at IIT Kanpur  
 - Associate AI & ML Developer at Credwise
-- Python Engineer at Virtusa
-
+  
 ## Currently Exploring
-- Neural network optimization landscapes
-- AI systems engineering
-- Rust & Next.js
-- Scalable ML infrastructure
+- Neural network optimization landscapes  
+- AI systems engineering  
+- Rust & Next.js  
+- Scalable ML infrastructure  
 
 ## Tech
 `Python` `PyTorch` `TensorFlow` `Rust` `Next.js` `TypeScript` `Docker` `Julia`
@@ -39,8 +39,8 @@ Exploring optimization landscapes, computer vision, scalable AI systems, and mod
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/pranav-advani-845615227) •
-[GitHub](https://github.com/pranav-bot) •
-[Twitter/X](https://twitter.com/pranavadvani3)
+<a href="https://linkedin.com/in/pranav-advani-845615227">LinkedIn</a> •
+<a href="https://github.com/pranav-bot">GitHub</a> •
+<a href="https://twitter.com/pranavadvani3">Twitter/X</a>
 
 </div>
