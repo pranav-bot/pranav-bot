@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" width="100%" />
+<iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre">via GIPHY</a></p>
 
 # Pranav Advani
 
