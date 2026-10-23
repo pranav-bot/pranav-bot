@@ -1,0 +1,15 @@
+{
+    "scope": "user",
+    "harnesses": [
+        "gemini",
+        "copilot",
+        "claude",
+        "kilo",
+        "agy",
+        "oc",
+        "opencode",
+        "antigravity"
+    ],
+    "custom_harnesses": {},
+    "sync-mode": "link"
+}
