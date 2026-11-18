@@ -1,15 +1,16 @@
 {
     "scope": "user",
     "harnesses": [
-        "gemini",
-        "copilot",
-        "claude",
-        "kilo",
-        "agy",
-        "oc",
+        "cursor",
         "opencode",
-        "antigravity"
+        ".agents"
     ],
-    "custom_harnesses": {},
+    "custom_harnesses": {
+        "opencode": {
+            "name": "opencode",
+            "global_location": "/home/padvani/.config/opencode/skills",
+            "local_location": "./.opencode/skills"
+        }
+    },
     "sync-mode": "link"
 }
